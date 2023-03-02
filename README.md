@@ -7,12 +7,13 @@ Panduan Instalasi :
 
 	1. Download dan Instal Aplikasi Xampp di Komputer.
 	2. Ekstrak file menggunakan aplikasi WinRAR.
-	3. Copy folder AplikasiELearning, lalu paste ke folder htdocs.
+	3. Copy folder E-learningapp , lalu paste ke folder htdocs.
 	4. Aktifkan Apache dan MySQL pada Xampp.
 	5. Buka browser, lalu buka alamat localhost/phpMyAdmin.
 	6. Buat database baru dengan nama learnify.
 	7. Import database aplikasi ke dalam database learnify.
-	8. Jalankan project dengan ketik localhost/AplikasiELearning/admin.
+	8. Sesuaikan config di file database.php dengan db dilocal
+	8. Jalankan project dengan ketik localhost/e-learningapp/admin.
 Login :
 --
 	username : admin@gmail.com 
